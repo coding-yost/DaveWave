@@ -111,3 +111,74 @@ System memory in use after: 73.8 MB.
 Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2011.
 Total: 3.439400 ms (FindLiveObjects: 0.207000 ms CreateObjectMapping: 0.055500 ms MarkObjects: 1.443500 ms  DeleteObjects: 1.731900 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 1110.106471 seconds.
+  path: Assets/echoAR/echoAR.cs
+  artifactKey: Guid(bbf1207ab2260994aa98cbfa9f61c3a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/echoAR/echoAR.cs using Guid(bbf1207ab2260994aa98cbfa9f61c3a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d1c2786330da342125ad90cf2615341') in 0.013590 seconds
+  Import took 0.017587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000957 seconds.
+  path: Assets/echoAR/echoAR.cs
+  artifactKey: Guid(bbf1207ab2260994aa98cbfa9f61c3a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/echoAR/echoAR.cs using Guid(bbf1207ab2260994aa98cbfa9f61c3a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d1c2786330da342125ad90cf2615341') in 0.003564 seconds
+  Import took 0.006282 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003604 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 1 native plugins for Editor in 0.12 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.859 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 1 native plugins for Editor in 0.09 ms.
+Unloading 1566 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.7 MB.
+System memory in use after: 73.8 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2014.
+Total: 5.140500 ms (FindLiveObjects: 0.561100 ms CreateObjectMapping: 0.191000 ms MarkObjects: 2.451700 ms  DeleteObjects: 1.934000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.614106 seconds.
+  path: Assets/echoAR/echoAR.cs
+  artifactKey: Guid(bbf1207ab2260994aa98cbfa9f61c3a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/echoAR/echoAR.cs using Guid(bbf1207ab2260994aa98cbfa9f61c3a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '253c1b557da0bd02736146812918914f') in 0.007613 seconds
+  Import took 0.010316 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003541 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 1 native plugins for Editor in 0.20 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.036 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 1 native plugins for Editor in 0.12 ms.
+Unloading 1566 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.8 MB.
+System memory in use after: 73.9 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2017.
+Total: 5.551800 ms (FindLiveObjects: 0.298500 ms CreateObjectMapping: 0.093200 ms MarkObjects: 2.139700 ms  DeleteObjects: 3.018200 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
