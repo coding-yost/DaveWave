@@ -18,9 +18,10 @@ public class ringCollision : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
-
-        Renderer render = GetComponent<Renderer>();
-        render.material.color = Color.green;
+        Destroy(other.gameObject);
+        //Console.WriteLine("Hello World");
+        //Renderer render = GetComponent<Renderer>();
+        //render.material.color = Color.green;
     }
 
 
