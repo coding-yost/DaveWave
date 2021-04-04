@@ -419,6 +419,7 @@
     <Compile Include="Assets\echoAR\Libraries\SocketIO\UniRx\Scripts\Operators\StartWith.cs" />
     <Compile Include="Assets\echoAR\Libraries\SocketIO\UniRx\Scripts\Operators\DefaultIfEmpty.cs" />
     <Compile Include="Assets\echoAR\Libraries\SocketIO\UniRx\Scripts\Operators\Last.cs" />
+    <Compile Include="Assets\planeFollowsCam.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\echoAR\Resources\glTFUnlit.shader" />
